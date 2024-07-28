@@ -16,19 +16,23 @@ Version Control: Git, GitHub
 Cloud Services: AWS.
 
 Projects
+
 E-Commerce Website
 A fully functional E-Commerce website built with HTML, CSS, and JavaScript. Features include a responsive design, product catalog, shopping cart, user authentication, and a seamless checkout process.
 
 Portfolio Website
+
 A personal portfolio website created to showcase my skills and projects. Built with HTML, CSS, and JavaScript, this site features a responsive design, project highlights, and a contact form.
 
 Experience
+
 Associate Software Intern at Brudite Pvt. Ltd.
 Worked on front-end and back-end development tasks.
 Collaborated with a team to deliver high-quality software solutions.
 Gained hands-on experience with various web technologies and frameworks.
 
 Education
+
 Master's degree in Computer Science from University of Technology, Jaipur.
 
 Get in Touch
