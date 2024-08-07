@@ -15,14 +15,6 @@ Other Skills
 Version Control: Git, GitHub
 Cloud Services: AWS.
 
-Projects
-
-E-Commerce Website
-A fully functional E-Commerce website built with HTML, CSS, and JavaScript. Features include a responsive design, product catalog, shopping cart, user authentication, and a seamless checkout process.
-
-Portfolio Website
-
-A personal portfolio website created to showcase my skills and projects. Built with HTML, CSS, and JavaScript, this site features a responsive design, project highlights, and a contact form.
 
 Experience
 
@@ -38,4 +30,3 @@ Master's degree in Computer Science from University of Technology, Jaipur.
 Get in Touch
 Email: ram.s.jjn11@gmail.com
 LinkedIn: https://www.linkedin.com/in/ram-b37214302/
-GitHub: Ramsingh6688
