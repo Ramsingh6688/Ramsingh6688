@@ -4,19 +4,20 @@ About Me
 I'm a passionate Full-Stack Developer with a strong foundation in both front-end and back-end technologies. I enjoy building scalable and efficient web applications that offer exceptional user experiences. With a keen eye for design and a knack for problem-solving, I strive to deliver high-quality software solutions.
 
 Skills
-Front-End Development
-Languages: HTML, CSS, JavaScript
-Frameworks/Libraries: ReatJs
+
+Front-End Development:-
+Languages: HTML, CSS, JavaScript.
+Frameworks/Libraries: ReatJs.
 Tools: Bootstrap.
-Back-End Development
+Back-End Development:-
 Languages: Python.
-Other Skills
+Other Skills:-
 IDE: Version Control System, PyCharm.
-Version Control: Git, GitHub
+Version Control: Git, GitHub.
 Cloud Services: AWS.
 
 
-Experience
+Experience:-
 
 Associate Software Intern at Brudite Pvt. Ltd.
 Worked on front-end and back-end development tasks.
