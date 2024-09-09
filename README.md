@@ -10,8 +10,8 @@ Frameworks/Libraries: ReatJs
 Tools: Bootstrap.
 Back-End Development
 Languages: Python.
-Frameworks: Django.
 Other Skills
+IDE: Version Control System, PyCharm.
 Version Control: Git, GitHub
 Cloud Services: AWS.
 
